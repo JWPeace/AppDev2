@@ -1,0 +1,7 @@
+C:\Users\JWPeace\Documents\Neumont\Q9\Sprint1\AppDev\Intro\Intro\bin\Debug\Intro.exe.config
+C:\Users\JWPeace\Documents\Neumont\Q9\Sprint1\AppDev\Intro\Intro\bin\Debug\Intro.exe
+C:\Users\JWPeace\Documents\Neumont\Q9\Sprint1\AppDev\Intro\Intro\bin\Debug\Intro.pdb
+C:\Users\JWPeace\Documents\Neumont\Q9\Sprint1\AppDev\Intro\Intro\obj\Debug\Intro.csprojAssemblyReference.cache
+C:\Users\JWPeace\Documents\Neumont\Q9\Sprint1\AppDev\Intro\Intro\obj\Debug\Intro.csproj.CoreCompileInputs.cache
+C:\Users\JWPeace\Documents\Neumont\Q9\Sprint1\AppDev\Intro\Intro\obj\Debug\Intro.exe
+C:\Users\JWPeace\Documents\Neumont\Q9\Sprint1\AppDev\Intro\Intro\obj\Debug\Intro.pdb
